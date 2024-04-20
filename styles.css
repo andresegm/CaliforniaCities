@@ -4,11 +4,12 @@ body {
     font-family: Arial, sans-serif;
 }
 
-main {
+.main {
     background-image: url('img/background.jpg');
     background-position: center;
     background-size: cover;
     padding: 50px;
+    min-height: 400px;
 }
 
 .logo img {
@@ -29,4 +30,25 @@ main {
 header {
     margin: 0;
     padding: 0;
+}
+
+nav {
+    padding: 20px 0;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
 }
