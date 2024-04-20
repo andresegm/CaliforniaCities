@@ -12,6 +12,11 @@ body {
     min-height: 600px;
 }
 
+#aside-content{
+    padding: 50px;
+    background-color: rgb(247, 180, 120);
+}
+
 header {
     height: 80px;
     background-color: rgb(78, 164, 207);
