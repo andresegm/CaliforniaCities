@@ -5,7 +5,7 @@ body {
 }
 
 .main {
-    background-image: url('img/background.jpg');
+    background-image: url('/img/background.jpg');
     background-position: center;
     background-size: cover;
     padding: 50px;
@@ -17,19 +17,15 @@ body {
     height: auto;
 }
 
-.logo {
-    float: left;
-    vertical-align: top;
-}
-
-.title {
-    display: inline-block;
-    margin-left: 10px;
-}
-
 header {
     margin: 0;
     padding: 0;
+}
+
+.title {
+    display: inline-block; 
+    text-align: center;
+    margin-left: 20px;
 }
 
 nav {
@@ -46,7 +42,7 @@ nav ul {
 
 nav ul li {
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 20px; /* Adjust as needed */
 }
 
 nav ul li:last-child {
