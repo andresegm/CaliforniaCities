@@ -17,6 +17,11 @@ body {
     height: auto;
 }
 
+.logo {
+    float: left;
+    vertical-align: top;
+}
+
 header {
     margin: 0;
     padding: 0;
