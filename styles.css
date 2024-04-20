@@ -9,7 +9,7 @@ body {
     background-position: center;
     background-size: cover;
     padding: 50px;
-    min-height: 400px;
+    min-height: 600px;
 }
 
 .logo img {
@@ -22,10 +22,6 @@ body {
     vertical-align: top;
 }
 
-header {
-    margin: 0;
-    padding: 0;
-}
 
 .title {
     display: inline-block; 
