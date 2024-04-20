@@ -12,6 +12,11 @@ body {
     min-height: 600px;
 }
 
+header {
+    height: 80px;
+    background-color: rgb(78, 164, 207);
+}
+
 .logo img {
     width: 100px;
     height: auto;
