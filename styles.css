@@ -40,9 +40,15 @@ header {
 }
 
 nav {
-    padding: 10px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
     background-color: #ffc8c8bb;
+    padding: 10px 0;
     text-align: center;
+    margin-top: 80px;
 }
 
 nav ul {
