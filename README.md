@@ -14,3 +14,4 @@ San Bernardino Image Credit:
 
 San Francisco Image Credit:
 
+Information on California, Texas, and Florida Facts: https://www.census.gov/quickfacts/fact/table/FL,TX,CA/RTN131217

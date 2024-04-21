@@ -128,3 +128,16 @@ nav ul li:last-child {
 .city-list li a:hover {
     color: gray;
 }
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-size: 25px;
+    color: white;
+    background-color: rgba(187, 184, 184, 0.699);
+}
+
+th, td {
+    border: none;
+    padding: 8px;
+}
