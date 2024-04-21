@@ -57,6 +57,15 @@ nav ul {
     padding: 0;
 }
 
+nav ul li a {
+    text-decoration: none; /* Remove underlines */
+    color: black; /* Set the color to black */
+}
+
+nav ul li a:hover {
+    color: gray; /* Set the color on hover */
+}
+
 nav ul li {
     display: inline-block;
     margin-right: 20px;
@@ -64,4 +73,39 @@ nav ul li {
 
 nav ul li:last-child {
     margin-right: 0;
+}
+
+.city-list {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
+
+.city-list li {
+    margin: auto;
+    background-color: rgba(211, 211, 211, 0.643); /* Light gray semi-transparent background */
+    padding: 10px 20px; /* Add padding to create space between text and background */
+    border-radius: 5px; /* Add border radius for rounded corners */
+}
+
+
+.city-list li:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+.city-list li a {
+    text-decoration: none;
+    color: #ff6d6d;
+    font-size: 40px;
+    font-weight: 600;
+    font-style:italic
+}
+
+.city-list li a:hover {
+    color: gray;
 }
