@@ -12,7 +12,7 @@ body {
     min-height: 680px;
 }
 
-#aside-content{
+#aside-content {
     padding: 50px;
     background-color: rgb(247, 180, 120);
 }
@@ -20,6 +20,7 @@ body {
 header {
     height: 80px;
     background-color: rgb(78, 164, 207);
+    color: white;
 }
 
 .logo img {
@@ -92,7 +93,6 @@ nav ul li:last-child {
     padding: 10px 20px; /* Add padding to create space between text and background */
     border-radius: 5px; /* Add border radius for rounded corners */
 }
-
 
 .city-list li:not(:last-child) {
     margin-bottom: 20px;
