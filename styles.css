@@ -13,8 +13,17 @@ body {
 }
 
 #aside-content {
-    padding: 50px;
+    padding: 30px;
     background-color: rgb(247, 180, 120);
+    color: white;
+}
+
+#aside-content h2 {
+    font-size: 40px;
+}
+
+#aside-content p, li {
+    font-size: 25px;
 }
 
 header {
