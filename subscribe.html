@@ -59,16 +59,16 @@
             
             <script>
                 function validateForm() {
-                    var email = document.getElementById('email').value;
-                    var confirmEmail = document.getElementById('confirmEmail').value;
-                    var errorMessage = document.getElementById('error-message');
+                    let email = document.getElementById('email').value;
+                    let confirmEmail = document.getElementById('confirmEmail').value;
+                    let errorMessage = document.getElementById('error-message');
             
                     if (email !== confirmEmail) {
                         errorMessage.textContent = "E-mail addresses do not match";
-                        return false; // Prevent form submission
+                        return false; 
                     } else {
                         errorMessage.textContent = "";
-                        return true; // Allow form submission
+                        return true;
                     }
                 }
             </script>
