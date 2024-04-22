@@ -162,7 +162,27 @@ th, td {
     background-color: #ffffff;
 }
 
-/* Show dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
+}
+
+form {
+    background-color: #c7c7c7bb;
+    width: 400px; 
+    margin: 0 auto; 
+    font-size: 30px;
+    padding-left: 2%;
+}
+
+label {
+    color: white;
+    display: block;
+    margin-bottom: 5px;
+}
+input {
+    margin-bottom: 10px;
+}
+#error-message {
+    color: red;
+    margin-top: 5px;
 }
