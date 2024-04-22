@@ -14,4 +14,4 @@ San Bernardino Image Credit:
 
 San Francisco Image Credit:
 
-Information on California, Texas, and Florida Facts: https://www.census.gov/quickfacts/fact/table/FL,TX,CA/RTN131217
+Information on California, Texas, and Florida Facts: 1. https://www.census.gov/quickfacts/fact/table/FL,TX,CA/RTN131217 2. https://meric.mo.gov/data/cost-living-data-series
