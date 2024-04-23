@@ -4,15 +4,13 @@ This is Task 2 for WGU Course D277
 
 Background Image Credit: Julian Myles, https://unsplash.com/photos/low-angle-photography-coconut-tree-2YGrbLlbz6Y
 
-California State Image Credit:
+Los Angeles Image Credit: Jake Blucker, https://unsplash.com/photos/people-sitting-on-chairs-near-palm-trees-during-night-time-8LlJNFLTEm0
 
-Los Angeles Image Credit:
+San Diego Image Credit: Ameer Basheer, https://unsplash.com/photos/seashore-near-buildings-6ER4GFOpINY
 
-San Diego Image Credit:
+Santa Barbara Image Credit: Yifan Ma, https://unsplash.com/photos/a-view-of-a-city-with-palm-trees-and-mountains-in-the-background-lVbc4XCaxnk
 
-San Bernardino Image Credit:
-
-San Francisco Image Credit:
+San Francisco Image Credit: Benjamin Voros, https://unsplash.com/photos/people-walking-on-brown-wooden-dock-during-daytime-Q9B0p-m6kjs
 
 Information on California, Texas, and Florida Facts: 1. https://www.census.gov/quickfacts/fact/table/FL,TX,CA/RTN131217 2. https://meric.mo.gov/data/cost-living-data-series
 City Statistics (Population, Classification, Average Household Income): https://www.city-data.com/city/California.html

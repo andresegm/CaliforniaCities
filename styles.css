@@ -9,7 +9,25 @@ body {
     background-position: center;
     background-size: cover;
     padding: 50px;
+    padding-bottom: 350px;
     min-height: 680px;
+}
+
+.main {
+    background-image: url('/img/background.jpg');
+    background-position: center;
+    background-size: cover;
+    padding: 50px;
+    min-height: 680px;
+    position: relative; 
+}
+
+.city-image {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #aside-content {
