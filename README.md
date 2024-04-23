@@ -2,6 +2,8 @@
 Project for D277 Task 2
 This is Task 2 for WGU Course D277
 
+Logo Image Credit: Devin Cook, https://en.wikipedia.org/wiki/File:Flag_of_California.svg
+
 Background Image Credit: Julian Myles, https://unsplash.com/photos/low-angle-photography-coconut-tree-2YGrbLlbz6Y
 
 Los Angeles Image Credit: Jake Blucker, https://unsplash.com/photos/people-sitting-on-chairs-near-palm-trees-during-night-time-8LlJNFLTEm0
