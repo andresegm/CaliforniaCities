@@ -57,7 +57,7 @@ header {
 .main p {
     color: white;
     font-size: 30px;
-    background-color: rgba(187, 184, 184, 0.699);
+    background-color: rgba(154, 154, 154, 0.643); 
 }
 
 .logo img {
@@ -126,7 +126,7 @@ nav ul li:last-child {
 
 .city-list li {
     margin: auto;
-    background-color: rgba(211, 211, 211, 0.643); 
+    background-color: rgba(154, 154, 154, 0.643); 
     padding: 10px 20px;
     border-radius: 5px;
 }
@@ -152,7 +152,7 @@ table {
     border-collapse: collapse;
     font-size: 25px;
     color: white;
-    background-color: rgba(187, 184, 184, 0.699);
+    background-color: rgba(154, 154, 154, 0.643); 
 }
 
 th, td {
@@ -186,7 +186,7 @@ th, td {
 
 form {
     position: relative;
-    background-color: #c7c7c7bb;
+    background-color: rgba(154, 154, 154, 0.643); 
     width: 400px; 
     margin: 0 auto; 
     font-size: 30px;
