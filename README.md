@@ -16,3 +16,7 @@ Information on California, Texas, and Florida Facts: 1. https://www.census.gov/q
 City Statistics (Population, Classification, Average Household Income): https://www.city-data.com/city/California.html
 City Incorporation Year: https://en.wikipedia.org/wiki/List_of_cities_in_the_Americas_by_year_of_foundation
 City Regions: https://en.wikipedia.org/wiki/List_of_regions_of_California
+
+Introductory Paragraphs paraphrased from: 1. https://www.visitcalifornia.com/region/san-francisco-bay-area/
+                                          2. https://www.visitcalifornia.com/region/san-diego-county/
+                                          3. https://www.visitcalifornia.com/region/los-angeles-county/
