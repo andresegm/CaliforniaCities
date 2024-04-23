@@ -205,3 +205,11 @@ input {
     color: red;
     margin-top: 5px;
 }
+
+#aside-content .reference {
+    font-size: 20px;
+}
+
+sup {
+    font-size: 15px;
+}
