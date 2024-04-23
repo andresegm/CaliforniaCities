@@ -167,6 +167,7 @@ th, td {
 }
 
 form {
+    position: relative;
     background-color: #c7c7c7bb;
     width: 400px; 
     margin: 0 auto; 
