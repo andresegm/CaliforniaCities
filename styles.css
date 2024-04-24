@@ -5,16 +5,7 @@ body {
 }
 
 .main {
-    background-image: url('/img/background.jpg');
-    background-position: center;
-    background-size: cover;
-    padding: 50px;
-    padding-bottom: 350px;
-    min-height: 680px;
-}
-
-.main {
-    background-image: url('/img/background.jpg');
+    background-image: url('./img/background.jpg');
     background-position: center;
     background-size: cover;
     padding: 50px;
