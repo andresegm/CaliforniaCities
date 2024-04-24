@@ -1,6 +1,4 @@
-# D277-Task-2
-Project for D277 Task 2
-This is Task 2 for WGU Course D277
+California State Cities
 
 Logo Image Credit: Devin Cook, https://en.wikipedia.org/wiki/File:Flag_of_California.svg
 
